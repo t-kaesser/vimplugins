@@ -34,3 +34,6 @@
 [submodule "vim-terraform"]
 	path = vim-terraform
 	url = https://github.com/hashivim/vim-terraform
+[submodule "vim-autopep8"]
+	path = vim-autopep8
+	url = https://github.com/tell-k/vim-autopep8.git
