@@ -37,3 +37,6 @@
 [submodule "vim-autopep8"]
 	path = vim-autopep8
 	url = https://github.com/tell-k/vim-autopep8.git
+[submodule "z"]
+	path = z
+	url = git@github.com:rupa/z.git
