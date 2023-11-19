@@ -13,9 +13,6 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "vim-auto-save"]
-	path = vim-auto-save
-	url = https://github.com/vim-scripts/vim-auto-save
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
@@ -43,3 +40,6 @@
 [submodule "vim-go"]
 	path = vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "auto-save.nvim"]
+	path = auto-save.nvim
+	url = https://github.com/pocco81/auto-save.nvim.git
